@@ -1,0 +1,2 @@
+- jq slider
+	-- http://www.dreamcss.com/2009/04/create-beautiful-jquery-sliders.html
